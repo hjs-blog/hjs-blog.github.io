@@ -9,7 +9,7 @@ description: 慧结算 财务软件 是一款为现代服务业中小企业打�
 keywords: 慧结算 财务软件
 author: huijiesuan
 language: zh-Hans
-timezone:
+timezone: china
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
